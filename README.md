@@ -8,7 +8,7 @@
 
 ---
 
-本案例GitHub地址为https://github.com/RacoB1T/LLM_case_for_QLUNLP，每节内容如下：
+本案例GitHub地址为[https://github.com/RacoB1T/LLM_case_for_QLUNLP](https://github.com/RacoB1T/LLM_case_for_QLUNLP)，每节内容如下：
 
 一、[部署一个大模型](https://github.com/RacoB1T/LLM_case_for_QLUNLP/blob/main/01.%E9%83%A8%E7%BD%B2%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%A8%A1%E5%9E%8B.md)
 
