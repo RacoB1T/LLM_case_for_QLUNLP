@@ -1,0 +1,2 @@
+# LLM_case_for_QLUNLP
+QLUNLP课题组所编写的大模型案例
