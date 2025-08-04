@@ -1,4 +1,4 @@
-# 大预言模型入门案例
+# 大语言模型入门案例
 
 ---
 
@@ -31,4 +31,5 @@
 十、[推理加速](https://github.com/RacoB1T/LLM_case_for_QLUNLP/blob/main/10.%E6%8E%A8%E7%90%86%E5%8A%A0%E9%80%9F.md)
 
 ---
+
 
